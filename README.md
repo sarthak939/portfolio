@@ -1,3 +1,13 @@
+UPDATE  YOUR RESUME LINK in src/components/Experience.tsx.
+
+Here is exactly where to swap the URL:
+Open this file: src/components/Experience.tsx
+Go to Line 277: Replace the URL inside the href="..."
+Go to Line 328: Replace the URL inside the href="..."
+
+
+
+
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
 ## Getting Started
