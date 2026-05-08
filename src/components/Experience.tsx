@@ -325,7 +325,7 @@ export default function Experience() {
               <h2 className="text-5xl md:text-6xl font-black tracking-tighter text-white">Experience</h2>
               {/* Resume button */}
               <motion.a
-                href="https://drive.google.com/file/d/1vxTxvEdr9y0vDfqXI1AePzKk3lNP_KXs/view?usp=sharing"
+                href="https://drive.google.com/file/d/1fc9OLOTevhZ-O809q_Y7i4N3mx-c0M8E/view?usp=sharing"
                 target="_blank"
                 rel="noopener noreferrer"
                 whileHover={{ scale: 1.03 }}
