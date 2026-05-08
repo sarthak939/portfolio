@@ -6,7 +6,7 @@ import { ChevronDown, ExternalLink, GraduationCap, BookOpen } from "lucide-react
 
 const workExperiences = [
   {
-    period: "Jul 2025 — Mar 2026",
+    period: "Jul 2025 — Present 2026",
     role: "Data Analyst",
     company: "Grow Nutrition",
     location: "Zirakpur, Punjab",
@@ -26,7 +26,7 @@ const workExperiences = [
     skills: ["Power BI", "DAX", "Python", "SQL", "N8N", "A/B Testing"],
   },
   {
-    period: "May 2025 — Jul 2025",
+    period: "Jan 2025 — Jul 2025",
     role: "Data Analyst",
     company: "EOXS",
     location: "Remote",
