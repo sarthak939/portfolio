@@ -7,7 +7,7 @@ import { Code2, ExternalLink, ChevronRight } from "lucide-react";
 const projects = [
   {
     index: "01",
-    title: "Sales Forecasting Dashboard",
+    title: "RevenueLens Forecasting Performance Analytics",
     description: "Ingested 1M+ records into BigQuery; built Power BI dashboard delivering 12-week forecasts at 88% accuracy for C-suite planning.",
     tags: ["Power BI", "BigQuery", "DAX", "Forecasting"],
     stat: "88%",
